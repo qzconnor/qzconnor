@@ -1,6 +1,6 @@
 ### Hi there, I'm Connor👋😎
-[xconnor.tv](https://xconnor.tv)
-[CosmeticsMod](https://cosmeticsmod.com) | Web-Dev
+* [xconnor.tv](https://xconnor.tv)
+* [CosmeticsMod](https://cosmeticsmod.com) | Web-Dev
 ---
 
 ## Languages and Tools:
