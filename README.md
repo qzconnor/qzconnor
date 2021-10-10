@@ -21,6 +21,12 @@
 <br><br>
 
 ## Github Stats:
+<p align="center">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qzconnor&show_icons=true&hide_border=true&theme=dark" />
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzconnor&layout=compact&theme=dark&hide_border=true" />
+</p>
 
-<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qzconnor&show_icons=true&hide_border=true&theme=dark" />
-<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzconnor&layout=compact&theme=dark&hide_border=true" />
+## Discord:
+<p align="center">
+    <a href="https://discord.com/users/299976373353578496"> <img src="https://lanyard-profile-readme.vercel.app/api/299976373353578496"></a>
+</p>
