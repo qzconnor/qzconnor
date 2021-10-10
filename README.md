@@ -26,7 +26,4 @@
   <img width="400px" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzconnor&layout=compact&theme=dark&hide_border=true" />
 </p>
 
-## Discord:
-<p align="center">
-    <a href="https://discord.com/users/299976373353578496"> <img src="https://lanyard-profile-readme.vercel.app/api/299976373353578496"></a>
-</p>
+
