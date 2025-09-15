@@ -20,10 +20,3 @@
   <img align="left" alt="Java" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
 <br><br>
 
-## Github Stats:
-<p align="center">
-  <img width="474px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qzconnor&show_icons=true&hide_border=true&theme=dark" />
-  <img width="400px" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzconnor&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-
